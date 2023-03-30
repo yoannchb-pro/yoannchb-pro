@@ -7,8 +7,8 @@
 - ⚡ Fun fact **I hate backend**
 
 <div style="display: grid;grid-template-columns: repeat(2,450px)">
-<a href="https://github.com/yoannchb-pro/lazy-attr">
-<img alt="guigzbot" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=lazy-attr&theme=dark&icon_color=a" width="400" height="140">
+<a href="https://github.com/yoannchb-pro/MoodleGPT">
+<img alt="guigzbot" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=MoodleGPT&theme=dark&icon_color=a" width="400" height="140">
 </a>
 
 <a href="https://github.com/yoannchb-pro/google-img-scrap">
@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/yoannchb-pro/anime-vostfr">
-<img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=anime-vostfr&theme=dark&icon_color=a" width="400" height="140">
+<img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=card3d&theme=dark&icon_color=a" width="400" height="140">
 </a>
 
 </div>
@@ -37,6 +37,8 @@
 ![FONTAWESOME](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PUPPETEER](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,8 +50,5 @@
 
 <div style="display: flex; justify-content: center;padding: 20px 0">
     <img alt="globalstats" style="padding:0 20px" src="https://github-readme-stats.vercel.app/api?username=yoannchb-pro&show_icons=true&count_private=true&include_all_commits=true&theme=dark&icon_color=a" height="180">
-    <img alt="languages" src="https://github-readme-stats-garnx.vercel.app/api/top-langs/?username=yoannchb-pro&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true" height="180">
-</div>
-<div style="display: flex; justify-content: center;padding: 20px 0">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoannchb-pro&theme=dark" alt="yoannchb-pro" width="420"/>
 </div>
