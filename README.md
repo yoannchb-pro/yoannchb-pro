@@ -2,8 +2,7 @@
 <h3 align="center">Passionate about web</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoannchb-pro&label=Visitors&color=009dff&style=flat" alt="yoannchb-pro"/></p>
 
-- 📚 I am a third year student at the ETS in Canada (Montréal)
-- 📫 Contact me on my [**mail**](mailto:charbonn.yoann@gmail.com)
+- 📚 I am a poor student 
 - ⚡ Fun fact **I hate backend**
 
 <div style="display: grid;grid-template-columns: repeat(2,450px)">
