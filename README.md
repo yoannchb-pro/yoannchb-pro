@@ -14,12 +14,20 @@
 <img alt="javano" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=google-img-scrap&theme=dark&icon_color=a" width="400" height="140">
 </a>
 
-<a href="https://github.com/yoannchb-pro/fast-html-dom-parser">
-<img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=fast-html-dom-parser&theme=dark&icon_color=a" width="400" height="140">
+<a href="https://github.com/yoannchb-pro/tempjs">
+<img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=tempjs&theme=dark&icon_color=a" width="400" height="140">
 </a>
 
-<a href="https://github.com/yoannchb-pro/anime-vostfr">
+<a href="https://github.com/yoannchb-pro/tetris-ts">
+<img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=tetris-ts&theme=dark&icon_color=a" width="400" height="140">
+</a>
+
+<a href="https://github.com/yoannchb-pro/card3d">
 <img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=card3d&theme=dark&icon_color=a" width="400" height="140">
+</a>
+
+<a href="https://github.com/yoannchb-pro/Parallaxy">
+<img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=yoannchb-pro&repo=Parallaxy&theme=dark&icon_color=a" width="400" height="140">
 </a>
 
 </div>
